@@ -4,6 +4,6 @@ For CoLic backend, follow instructions [here.](https://github.com/chaoss/grimoir
 
 Here is the output/config picture:
 
-![Graal backends](chaoss-microtasks/Microtask6/Images/graal_backends.png)
+![Graal backends](Images/graal_backends.png)
 
 To run the script, clone the repo and run. Change the repo_uri in the script as necessary.
