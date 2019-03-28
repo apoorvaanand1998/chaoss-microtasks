@@ -4,6 +4,6 @@ The solution for this microtask is in the tutorial itself. It can be found [here
 
 Config file picture:
 
-![Microtask2 config](Microtask2/Images/m2_config.png)
+![Microtask2 config](Images/m2_config.png)
 
 To run the script, clone this repo and run it with the appropriate arguments.
