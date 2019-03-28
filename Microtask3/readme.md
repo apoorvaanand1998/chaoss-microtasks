@@ -25,6 +25,7 @@ And for the github backend of perceval it is - 'https://github.com/grimoirelab/p
 
 In backend.py
 
+```
 """Generate a UUID based on the given parameters.
     The UUID will be the SHA1 of the concatenation of the values
     from the list. The separator bewteedn these values is ':'.
@@ -35,6 +36,7 @@ In backend.py
     :raises ValueError: when anyone of the values is not a string,
         is empty or `None`.
 """
+```
 
 6) The common methods of the perceval backends are:
 
@@ -45,7 +47,7 @@ In backend.py
 - metadata_updated_on(item)
 - metadata_category(item)
 
-7) Some of the git commands used are
+7) Some of the git commands used are:
 
 - git clone - Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository (visible using git branch -r), and creates and checks out an initial branch that is forked from the cloned repository's currently active branch.
 
