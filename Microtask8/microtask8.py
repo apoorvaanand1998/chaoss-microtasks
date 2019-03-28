@@ -1,6 +1,6 @@
 import subprocess  # safest module for running shell commands through python
 import sys  # only for exit
-import os.path  # only for
+import os.path  # only for checking existence 
 import argparse
 
 # Parse command line arguments
