@@ -3,4 +3,4 @@ My solutions to the [CHAOSS microtasks](https://github.com/chaoss/grimoirelab/is
 
 Check inside each directory for the solutions/explanations and how to run the scripts.
 
-
+Thank you [inishchith](https://github.com/inishchith) for asking all the right questions [here!](https://github.com/chaoss/grimoirelab/issues/182)
