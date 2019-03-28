@@ -12,7 +12,7 @@
 - _post(self, commit)
 - analyze(self, file_path)
 
-2) 2 git commands used by Graal that aren't used by Perceval are:
+2) Two git commands used by Graal that aren't used by Perceval are:
 
 - git worktree - Manage multiple working trees attached to the same repository.
 A git repository can support multiple working trees, allowing you to check out more than one branch at a time. With git worktree add a new working tree is associated with the repository. This new working tree is called a "linked working tree" as opposed to the "main working tree" prepared by "git init" or "git clone". A repository has one main working tree (if it's not a bare repository) and zero or more linked working trees. When you are done with a linked working tree, remove it with git worktree remove.
