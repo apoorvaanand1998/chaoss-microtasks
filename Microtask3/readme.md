@@ -45,16 +45,18 @@ In backend.py
 - metadata_updated_on(item)
 - metadata_category(item)
 
-7) git clone - Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository (visible using git branch -r), and creates and checks out an initial branch that is forked from the cloned repository's currently active branch.
+7) Some of the git commands used are
 
-git log - Shows the commit logs.
+- git clone - Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository (visible using git branch -r), and creates and checks out an initial branch that is forked from the cloned repository's currently active branch.
+
+- git log - Shows the commit logs.
 The command takes options applicable to the git rev-list command to control what is shown and how, and options applicable to the git diff-* commands to control how the changes each commit introduces are shown.
 
-git-fetch - Fetch branches and/or tags (collectively, "refs") from one or more other repositories, along with the objects necessary to complete their histories. Remote-tracking branches are updated (see the description of <refspec> below for ways to control this behavior).
+- git-fetch - Fetch branches and/or tags (collectively, "refs") from one or more other repositories, along with the objects necessary to complete their histories. Remote-tracking branches are updated (see the description of <refspec> below for ways to control this behavior).
 
-git-count-objects - Count unpacked number of objects and their disk consumption
+- git-count-objects - Count unpacked number of objects and their disk consumption
 
-git remote - git-remote - Manage set of tracked repositories
+- git remote - Manage set of tracked repositories
 
 
 
