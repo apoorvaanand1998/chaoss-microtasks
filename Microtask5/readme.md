@@ -9,6 +9,6 @@ $> python3 setup.py install
 
 The config file is as follows:
 
-![Graal config](/graal_config.png)
+![Graal config](/graal_setup.png)
 
 The program can be found [here.](https://github.com/chaoss/grimoirelab-graal/blob/master/README.md#from-python)
