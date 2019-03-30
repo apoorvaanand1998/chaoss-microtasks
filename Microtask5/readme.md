@@ -19,4 +19,4 @@ The project structure is shown here :
 
 ![Graal gltoolkit](Images/graal_glt.png)
 
-The program can be found [here.](https://github.com/chaoss/grimoirelab-graal/blob/master/README.md#from-python)
+The reference for this program was found [here.](https://github.com/chaoss/grimoirelab-graal/blob/master/README.md#from-python)
