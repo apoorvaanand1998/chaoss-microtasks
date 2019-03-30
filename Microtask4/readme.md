@@ -3,7 +3,7 @@ Given a target GitHub repository, the script should return a message if the repo
 The script should rely on the endpoints: origin and visits.
 Please use the Python library requests to issue requests to the SofwareHeritage API.
 
-The script can be run by cloning this repo and running the script with a github repo as argument.
+[The script](https://github.com/apoorvaanand1998/chaoss-microtasks/blob/feedback1/Microtask4/microtask4.py) can be run by cloning this repo and running the script with a github repo as argument.
 
 The config/output for when repo is available in SoftwareHeritage is:
 
