@@ -3,7 +3,7 @@
 ### Git
 
 [Git script](
-        chaoss-microtasks/Microtask2/microtask2_git.py
+        https://github.com/apoorvaanand1998/chaoss-microtasks/blob/feedback1/Microtask2/microtask2_git.py
       ) 
 which uses GitCommand to parse commandline arguments. The config is shown below:
 
@@ -12,7 +12,7 @@ which uses GitCommand to parse commandline arguments. The config is shown below:
 ### GitHub
 
 [Github script](
-        chaoss-microtasks/Microtask2/microtask2_github.py
+        https://github.com/apoorvaanand1998/chaoss-microtasks/blob/feedback1/Microtask2/microtask2_github.py
       )
 which uses GithubCommand to parse commandline arguments. The config is shown below:
 
