@@ -32,8 +32,6 @@ The project structure looks like this after doing everything above:
 ![GrimoireLab Toolkit](Images/grimoirelab_toolkit.png)
 
 
-For running [the script](
-        chaoss-microtasks/Microtask1/microtask1.py
-      ) in this microtask yourself, clone this repo and run the script with a Github repo and token as arguments in the command line.
+For running [the script](https://github.com/apoorvaanand1998/chaoss-microtasks/blob/feedback1/Microtask1/microtask1.py) in this microtask yourself, clone this repo and run the script with a Github repo and token as arguments in the command line.
 
 
