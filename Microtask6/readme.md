@@ -2,8 +2,16 @@
 
 For CoLic backend, follow instructions [here.](https://github.com/chaoss/grimoirelab/issues/182#issuecomment-473536884)
 
-Here is the output/config picture:
+### CoCom
 
-![Graal backends](Images/graal_backends.png)
+[CoCom Script](https://github.com/apoorvaanand1998/chaoss-microtasks/blob/feedback1/Microtask6/microtask6_cocom.py) which uses the CoCom arg parser. The config is shown below:
 
-To run the script, clone the repo and run. Change the repo_uri in the script as necessary.
+![Cocom](Images/cocom.png)
+
+### CoLic
+
+[CoLic Script](https://github.com/apoorvaanand1998/chaoss-microtasks/blob/feedback1/Microtask6/microtask6_colic.py) which uses the CoLic arg parser. The config is shown below:
+
+![Colic](Images/colic.png)
+
+To run the script, clone the repo and run with appropriate arguments.
