@@ -7,7 +7,7 @@ $> python3 setup.py build
 $> python3 setup.py install
 ```
 
-My script for this microtask can be found [here](https://github.com/apoorvaanand1998/chaoss-microtasks/blob/feedback1/Microtask5/microtask5.py)
+My script for this microtask can be found [here.](https://github.com/apoorvaanand1998/chaoss-microtasks/blob/feedback1/Microtask5/microtask5.py)
 
 The config file is as follows:
 
