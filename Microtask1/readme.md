@@ -1,7 +1,7 @@
 > Set up Perceval to be executed from PyCharm.
 
 ### Method 1
-Perceval can be set up to be executed by pycharm as shown [here.](https://stackoverflow.com/questions/26069254/importerror-no-module-named-bottle-pycharm)
+Perceval can be set up to be executed by pycharm as shown [here.](https://stackoverflow.com/a/26069398)
 
 Here's a screenshot from me:
 
