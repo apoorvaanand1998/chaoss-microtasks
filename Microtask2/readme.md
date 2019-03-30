@@ -1,9 +1,21 @@
 > Create a Python script to execute Perceval via its Python interface using the Git and GitHub backends. Feel free to select any target repository, for instance the GitHub repository hosting Perceval.
 
-The solution for this microtask is in the tutorial itself. It can be found [here](https://chaoss.github.io/grimoirelab-tutorial/perceval/git.html) and [here.](https://chaoss.github.io/grimoirelab-tutorial/perceval/github.html)
+### Git
 
-Config file picture:
+[Git script](
+        chaoss-microtasks/Microtask2/microtask2_git.py
+      ) 
+which uses GitCommand to parse commandline arguments. The config is shown below:
 
-![Microtask2 config](Images/m2_config.png)
+![Git config](Images/git.png)
+      
+### GitHub
+
+[Github script](
+        chaoss-microtasks/Microtask2/microtask2_github.py
+      )
+which uses GithubCommand to parse commandline arguments. The config is shown below:
+
+![Github config](Images/github.png)
 
 To run the script, clone this repo and run it with the appropriate arguments.
