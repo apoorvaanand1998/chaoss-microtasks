@@ -12,3 +12,10 @@ The config/output for when repo is available in SoftwareHeritage is:
 The config/output for when repo is not available in SoftwareHeritage is:
 
 ![Available](Images/not_avail.png)
+
+I've also uploaded [a script](https://github.com/apoorvaanand1998/chaoss-microtasks/blob/feedback1/Microtask4/microtask4explore.py) where I've explored the following endpoints:
+- [stat/counters](https://archive.softwareheritage.org/api/1/stat/counters/)
+- [revision](https://archive.softwareheritage.org/api/1/revision/)
+- [revision/log](https://archive.softwareheritage.org/api/1/revision/log/)
+- [revision/origin](https://archive.softwareheritage.org/api/1/revision/origin/)
+- [revision/origin/log](https://archive.softwareheritage.org/api/1/revision/origin/log/)
