@@ -49,9 +49,9 @@ In [backend.py](https://github.com/chaoss/grimoirelab-perceval/blob/7dfb8b6ddc7a
 
 7) Some of the git commands used are:
 
-- git clone - Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository (visible using git branch -r), and creates and checks out an initial branch that is forked from the cloned repository's currently active branch. With the --bare option, a bare git repository is made. That is, instead of creating <directory> and placing the administrative files in <directory>/.git, make the <directory> itself the $GIT_DIR. No checkout of head is done.
+- git clone - Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository (visible using git branch -r), and creates and checks out an initial branch that is forked from the cloned repository's currently active branch. With the --bare option, a bare git repository is made. That is, instead of creating directory and placing the administrative files in directory/.git, make the directory itself the $GIT_DIR. No checkout of head is done.
     
-    When this option is used, neither remote-tracking branches nor the related configuration variables are created. A 'tracking branch' in Git is a local branch that is connected to a remote branch. When you push and pull on that branch, it automatically pushes and pulls to the remote branch that it is connected with. The --bare option is used (among other reasons) because perceval has no use for the local tracking branches.
+    When this option is used, neither remote-tracking branches nor the related configuration variables are created. A 'tracking branch' in Git is a local branch that is connected to a remote branch. When you push and pull on that branch, it automatically pushes and pulls to the remote branch that it is connected with. The --bare option is used (among other reasons) because perceval has no use for the local tracking branches. That means, no "reading" operations can be performed, like checkout, as there is no working tree.
 
 - git log - Shows the commit logs.
 The command takes options applicable to the git rev-list command to control what is shown and how, and options applicable to the git diff-* commands to control how the changes each commit introduces are shown.
